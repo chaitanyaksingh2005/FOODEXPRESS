@@ -1,0 +1,8 @@
+### `.gitignore`
+
+Is file mein **sirf ye lines** hongi:
+
+```text
+__pycache__/
+*.pyc
+.pytest_cache/
