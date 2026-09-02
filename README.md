@@ -15,3 +15,4 @@ Tests are executed using pytest.
 
 ```bash
 python -m pytest
+Jenkins automatic CI trigger enabled.
